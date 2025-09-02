@@ -315,13 +315,14 @@ def get_hof_pitchers_list():
         SELECT DISTINCT p."playerID"
         FROM pitching p
         JOIN hallOfFame h ON p."playerID" = h."playerID"
-        WHERE h."inducted" = true
+        WHERE h."inducted" = 't'
           AND h."category" = 'Player';
     """)
     rows = cursor.fetchall()
     conn.close()
 
     player_name_map = load_playerid_fullname_mapping()
+    print([row[0] for row in rows])
 
     return json.dumps([
         {
