@@ -76,3 +76,7 @@ python hello_bottle.py
 ```cpp
 http://127.0.0.1:8080/
 ```
+
+## License
+
+This projet is licensed under the [MIT License](LICENSE).
