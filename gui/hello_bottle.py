@@ -1,4 +1,5 @@
-from psycopg import connect
+# No longer need psycopg import since I am not using PostgreSQL Database any longer
+# from psycopg import connect
 from bottle import Bottle, template, static_file, request, SimpleTemplate
 import json
 import csv

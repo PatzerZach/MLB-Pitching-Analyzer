@@ -1,6 +1,6 @@
 # MLB-Pitching-Analyzer
 
-A web-based MLB Pitching Analyzer built with Python and the Bottle framework, featuring an HTML/CSS/JavaScript frontend with Bootstrap, that looks at all MLB pitching data from 1890 - 2017 and provides visualizations and interactions for various statistics.
+A web-based MLB Pitching Analyzer built with Python and the Bottle framework, featuring an HTML/CSS/JavaScript frontend with Bootstrap, that looks at all MLB pitching data using SQL from 1890 - 2017 and provides visualizations and interactions for various statistics.
 
 ## Features
 
@@ -35,7 +35,7 @@ MLB-Pitching-Analyzer/
 ## Imports
 
 ```python
-from psychopg import connect
+# from psychopg import connect (Not using PostGreSQL anymore, using SQLite3)
 from bottle import Bottle, template, static_file, request, SimpleTemplate
 import json
 import csv
