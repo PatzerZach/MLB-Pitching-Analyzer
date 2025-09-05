@@ -1,0 +1,747 @@
+[
+  {
+    "id": "ALT",
+    "name": "Altoona Mountain Citys",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "ANA",
+    "name": "Anaheim Angels",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "ARI",
+    "name": "Arizona Diamondbacks",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "ATL",
+    "name": "Atlanta Braves",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BAL",
+    "name": "Baltimore Orioles",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BFN",
+    "name": "Buffalo Bisons (NL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BFP",
+    "name": "Buffalo Bisons (PL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BL1",
+    "name": "Baltimore Marylands",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BL2",
+    "name": "Baltimore Orioles (AA)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BL3",
+    "name": "Baltimore Orioles (AA)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BL4",
+    "name": "Baltimore Canaries",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BLA",
+    "name": "Baltimore Orioles (AL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BLF",
+    "name": "Baltimore Terrapins",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BLN",
+    "name": "Baltimore Orioles (NL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BLU",
+    "name": "Baltimore Monumentals",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BOS",
+    "name": "Boston Red Sox",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BR1",
+    "name": "Brooklyn Atlantics",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BR2",
+    "name": "Brooklyn Eckfords",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BR3",
+    "name": "Brooklyn Bridegrooms",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BR4",
+    "name": "Brooklyn Ward's Wonders",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BRF",
+    "name": "Brooklyn Tip-Tops",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BRP",
+    "name": "Brooklyn Gladiators",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BRO",
+    "name": "Brooklyn Dodgers",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BS1",
+    "name": "Boston Red Stockings",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BS2",
+    "name": "Boston Reds (AA)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BSN",
+    "name": "Boston Braves",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BSP",
+    "name": "Boston Reds (PL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BSU",
+    "name": "Boston Reds (UA)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "BUF",
+    "name": "Buffalo Blues",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CAL",
+    "name": "California Angels",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CH1",
+    "name": "Chicago White Stockings",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CH2",
+    "name": "Chicago White Stockings",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CHA",
+    "name": "Chicago White Sox",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CHF",
+    "name": "Chicago Whales",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CHN",
+    "name": "Chicago Cubs",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CHP",
+    "name": "Chicago Pirates",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CHU",
+    "name": "Chicago Browns",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CIN",
+    "name": "Cincinnati Reds",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CL1",
+    "name": "Cleveland Forest Citys",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CL2",
+    "name": "Cleveland Blues (NL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CL3",
+    "name": "Cleveland Spiders",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CL4",
+    "name": "Cleveland Spiders",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CL5",
+    "name": "Cleveland Blues (UA)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CL6",
+    "name": "Cleveland Spiders",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CLE",
+    "name": "Cleveland Indians",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CLP",
+    "name": "Cleveland Infants",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CN1",
+    "name": "Cincinnati Reds (NL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CN2",
+    "name": "Cincinnati Reds (AA)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CN3",
+    "name": "Cincinnati Kelly's Killers",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "CNU",
+    "name": "Cincinnati Outlaw Reds",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "COL",
+    "name": "Colorado Rockies",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "DET",
+    "name": "Detroit Tigers",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "DTN",
+    "name": "Detroit Wolverines",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "ELI",
+    "name": "Elizabeth Resolutes",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "FLO",
+    "name": "Florida Marlins",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "FW1",
+    "name": "Fort Wayne Kekiongas",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "HAR",
+    "name": "Hartford Dark Blues",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "HOU",
+    "name": "Houston Astros",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "HR1",
+    "name": "Hartford Dark Blues",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "IN1",
+    "name": "Indianapolis Blues",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "IN2",
+    "name": "Indianapolis Hoosiers (AA)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "IN3",
+    "name": "Indianapolis Hoosiers (NL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "IND",
+    "name": "Indianapolis Hoosiers (FL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "KC1",
+    "name": "Kansas City Athletics",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "KC2",
+    "name": "Kansas City Cowboys (AA)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "KCA",
+    "name": "Kansas City Royals",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "KCF",
+    "name": "Kansas City Packers",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "KCN",
+    "name": "Kansas City Cowboys (NL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "KCU",
+    "name": "Kansas City Cowboys (UA)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "KEO",
+    "name": "Keokuk Westerns",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "LAA",
+    "name": "Los Angeles Angels",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "LAN",
+    "name": "Los Angeles Dodgers",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "LS1",
+    "name": "Louisville Grays",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "LS2",
+    "name": "Louisville Colonels (AA)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "LS3",
+    "name": "Louisville Colonels (NL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "MIA",
+    "name": "Miami Marlins",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "MID",
+    "name": "Middletown Mansfields",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "MIL",
+    "name": "Milwaukee Brewers",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "MIN",
+    "name": "Minnesota Twins",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "ML1",
+    "name": "Milwaukee Braves",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "ML2",
+    "name": "Milwaukee Grays",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "ML3",
+    "name": "Milwaukee Brewers (AA)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "ML4",
+    "name": "Milwaukee Brewers",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "MLA",
+    "name": "Milwaukee Brewers (AL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "MLU",
+    "name": "Milwaukee Brewers (UA)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "MON",
+    "name": "Montreal Expos",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "NEW",
+    "name": "Newark Peppers",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "NH1",
+    "name": "New Haven Elm Citys",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "NY1",
+    "name": "New York Giants",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "NY2",
+    "name": "New York Mutuals",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "NY3",
+    "name": "New York Mutuals",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "NY4",
+    "name": "New York Metropolitans",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "NYA",
+    "name": "New York Yankees",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "NYN",
+    "name": "New York Mets",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "NYP",
+    "name": "New York Giants (PL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "OAK",
+    "name": "Oakland Athletics",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "PH1",
+    "name": "Philadelphia Athletics",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "PH2",
+    "name": "Philadelphia Centennials",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "PH3",
+    "name": "Philadelphia White Stockings",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "PH4",
+    "name": "Philadelphia Athletics (AA)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "PHA",
+    "name": "Philadelphia Athletics (AL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "PHI",
+    "name": "Philadelphia Phillies",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "PHN",
+    "name": "Philadelphia Athletics (NL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "PHP",
+    "name": "Philadelphia Quakers",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "PHU",
+    "name": "Philadelphia Keystones",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "PIT",
+    "name": "Pittsburgh Pirates",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "PRO",
+    "name": "Providence Grays",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "PT1",
+    "name": "Pittsburgh Alleghenys",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "PTF",
+    "name": "Pittsburgh Rebels",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "PTP",
+    "name": "Pittsburgh Burghers",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "RC1",
+    "name": "Rockford Forest Citys",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "RC2",
+    "name": "Rochester Broncos",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "RIC",
+    "name": "Richmond Virginians",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "SDN",
+    "name": "San Diego Padres",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "SE1",
+    "name": "Seattle Pilots",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "SEA",
+    "name": "Seattle Mariners",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "SFN",
+    "name": "San Francisco Giants",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "SL1",
+    "name": "St. Louis Brown Stockings",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "SL2",
+    "name": "St. Louis Red Stockings",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "SL3",
+    "name": "St. Louis Brown Stockings",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "SL4",
+    "name": "St. Louis Browns (AA)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "SL5",
+    "name": "St. Louis Maroons",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "SLA",
+    "name": "St. Louis Browns (AL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "SLF",
+    "name": "St. Louis Terriers",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "SLN",
+    "name": "St. Louis Cardinals",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "SLU",
+    "name": "St. Louis Maroons (UA)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "SPU",
+    "name": "St. Paul White Caps",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "SR1",
+    "name": "Syracuse Stars",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "SR2",
+    "name": "Syracuse Stars",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "TBA",
+    "name": "Tampa Bay Rays",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "TEX",
+    "name": "Texas Rangers",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "TL1",
+    "name": "Toledo Blue Stockings",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "TL2",
+    "name": "Toledo Maumees",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "TOR",
+    "name": "Toronto Blue Jays",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "TRN",
+    "name": "Troy Trojans",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "TRO",
+    "name": "Troy Haymakers",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "WAS",
+    "name": "Washington Nationals",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "WIL",
+    "name": "Wilmington Quicksteps",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "WOR",
+    "name": "Worcester Ruby Legs",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "WS1",
+    "name": "Washington Senators",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "WS2",
+    "name": "Washington Senators",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "WS3",
+    "name": "Washington Olympics",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "WS4",
+    "name": "Washington Nationals",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "WS5",
+    "name": "Washington Blue Legs",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "WS6",
+    "name": "Washington Nationals",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "WS7",
+    "name": "Washington Nationals (UA)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "WS8",
+    "name": "Washington Nationals (NL)",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "WS9",
+    "name": "Washington Statesmen",
+    "logo": "/static/logos/placeholder.png"
+  },
+  {
+    "id": "WSU",
+    "name": "Washington Nationals (UA)",
+    "logo": "/static/logos/placeholder.png"
+  }
+]
