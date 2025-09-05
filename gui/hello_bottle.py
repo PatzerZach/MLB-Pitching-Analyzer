@@ -46,7 +46,7 @@ def load_playerid_fullname_mapping():
 def teams_list():
     
     def load_teams():
-        with open(r"gui\static\teams.json", "r", encoding="utf-8") as file:
+        with open(r"static\teams.json", "r", encoding="utf-8") as file:
             return json.load(file)
         
     teams = load_teams()
@@ -213,7 +213,7 @@ def get_runs_allowed_spike_data():
     conn.close()
     
     def load_team_info():
-        with open(r"gui\static\team_info.json", "r", encoding="utf-8") as file:
+        with open(r"static\team_info.json", "r", encoding="utf-8") as file:
             return json.load(file)
 
     # Team Locations and Names
